@@ -1,8 +1,8 @@
 Change History
 **************
 
-2.9.4 (unreleased)
-==================
+2.9.3+md.1 (2017-05-04)
+=======================
 
 - Respect index-url and find-links when calling easy install for
   setup-required dependencies.
